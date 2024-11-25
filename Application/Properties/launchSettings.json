@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Application": {
+      "commandName": "Project",
+      "commandLineArgs": "--Manual",
+      "environmentVariables": {
+        "Key": "Value",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
